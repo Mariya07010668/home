@@ -1,0 +1,11 @@
+/* margin-left: 100px; */
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-transform: uppercase;
+}
+
+.navbar-text:hover {
+  color: #03a9f4;
+  cursor: pointer;
+}
